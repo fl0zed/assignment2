@@ -4,7 +4,7 @@
 This project is a **Qt-based GUI application** designed to monitor and visualise real-time telemetry data (such as CPU temperature or pitch) via the **MQTT (Message Queuing Telemetry Transport)** protocol. 
 
 The application connects to an MQTT broker, subscribes to a specific topic, and plots incoming numerical data on a dynamic, real-time graph.
-Please note that there is a sub folder ADXL345 which contains all of the code needed for the ADXL345 sensor.
+Please note that there is a sub folder ADXL345 which contains all of the code needed for the ADXL345 sensor.f
 
 ## Key Features
 * **Real-Time Plotting:** Utilizes the `QCustomPlot` library to visualise data with a scrolling time-based X-axis.
